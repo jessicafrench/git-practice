@@ -30,3 +30,5 @@ Adding some text
 ```{r}
 cool_code <- c(1, 2, 3, 4)
 ```
+
+git hub is cool \<3
