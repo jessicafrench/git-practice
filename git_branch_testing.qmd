@@ -32,3 +32,8 @@ cool_code <- c(1, 2, 3, 4)
 ```
 
 git hub is cool \<3
+
+```{r}
+code <- 1 +4 
+code
+```
